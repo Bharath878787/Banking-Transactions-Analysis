@@ -1,1 +1,1 @@
-# Mini-Project
+# Banking-Transactions-Analytics
